@@ -5,7 +5,7 @@
   "projects": {
     "ngx-captcha": {
       "root": "",
-      "sourceRoot": "demo",
+      "sourceRoot": "demo",uuu
       "projectType": "application",
       "prefix": "app",
       "schematics": {},
